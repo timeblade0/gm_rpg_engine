@@ -6,8 +6,8 @@ RPG Maker engine in GMS2. Battle is very buggy.
 Controls:  
 -------------------------  
 Arrows = move  
-Z = confirm
-A = cancel
-Enter = Menu
+Z = confirm  
+A = cancel  
+Enter = Menu  
 Esc= Exit  
 F2= Reset  
