@@ -1,5 +1,5 @@
-# GMS2 RPM Maker BETA
-RPG Maker engine in GMS2. Battle is very buggy.
+# GMS2 RPG Maker BETA
+RPG Maker style engine in GMS2. Battle is very buggy.
 
 ![Screenshot](https://github.com/timeblade0/gm_rpg_engine/blob/main/screenshot.jpg)
 
