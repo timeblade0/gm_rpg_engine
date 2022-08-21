@@ -1,0 +1,7 @@
+exp > xp
+global.show_menu 	 > global.menu_visible
+global.show_question > global.question_visible
+global.show_message  > global.message_visible
+
+scp_battle_ai_atk_rand_player(0) = attack
+scp_battle_ai_atk_rand_player(1) = magic

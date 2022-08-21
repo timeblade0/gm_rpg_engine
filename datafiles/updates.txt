@@ -1,0 +1,17 @@
+TODO:
+------------------------------------
+*** show level up
+*** add cursor sprite
+*** add minimap to world map
+*** add room side teleport example
+*** make teleport how to explain jumping oppisite direction
+------------------------------------
+*** add equiping to players - head, body, larm,rarm, feet, accessory
+*** add slash spell
+*** add class changing
+*** add switching characters
+*** make immune to thunder mean immune to shockwave
+*** fix bug - battle freezing when both players paralyzed
+*** fix lv up words not displaying
+*** make player not able to walk through female walker
+*** add how to for hero values

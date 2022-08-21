@@ -1,0 +1,5 @@
+scp_battle_draw_menu()
+scp_battle_draw_stats()
+scp_update_speed_bars()
+scp_battle_skip_absent_battlers()
+scp_battle_set_target()
